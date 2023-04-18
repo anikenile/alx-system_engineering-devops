@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ROT-13 {a..z, A..Z} 
+tr ROT13 
